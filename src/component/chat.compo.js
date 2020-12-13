@@ -48,7 +48,7 @@ const Chat = () => {
                         Chat de conversation
                     </div>
                     <div className="text-center p-2">
-                        <a href="http://localhost:3000/chat/new" className="btn btn-outline-primary btn-sm" style={{borderRadius: "150px"}}>New message +</a>
+                        <a href="http://192.168.8.12:3000/chat/new" className="btn btn-outline-primary btn-sm" style={{borderRadius: "150px"}}>New message +</a>
                     </div>
                 </div>
                 
